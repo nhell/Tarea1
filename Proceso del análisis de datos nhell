@@ -1,0 +1,31 @@
+Definir pregunta: 		correlación de masa de neutrinos activos con pasivos en teorias más allá del modelo estandar.
+
+
+Definir juego de datos ideal:	Datos de Atlas y CMS
+
+
+Obtener datos accesibles: 	LHC públicos. 
+
+
+Limpiar datos: 			descriminar las teorias BSM.
+
+
+Análisis exploratorio:		contrastar los mecanismos seesaw para la generación de masa.
+
+
+Modelamiento estaditisco: 	modelar el espectro de masa de los neutrinos con SPHENO
+
+
+Graficar resultados:		la diferencia cuadrada de la masa de los neutrinos con respecto a angulos de mezclas 
+
+
+interpretar resultados:		Datos compatibles con el SM
+
+
+crear codigo reproducible:	Macro/programa con CHECKMATE
+
+
+distribuir resultados:		Publicación
+
+
+
